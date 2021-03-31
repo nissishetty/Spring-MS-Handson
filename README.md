@@ -1,3 +1,3 @@
 # Spring-MS-Handson
 
-Spring HandsOn 
+Spring MicroService HandsOn 
